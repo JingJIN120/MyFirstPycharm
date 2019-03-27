@@ -9,6 +9,3 @@ for name in my_list:
 
 for number in range(0:10):
     print(number+1)
-
-for letter in "jingjin"
-    print("each letter is: "+letter)
